@@ -7,5 +7,7 @@ Vue de la carte / Map template:
 
 NB:
 ù => supposed to be ♣
+
 O => supposed to be ☺
+
 X => supposed to be ☻

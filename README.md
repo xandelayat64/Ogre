@@ -6,8 +6,8 @@ Vue de la carte / Map template:
 <img width="489" height="441" alt="image" src="https://github.com/user-attachments/assets/8418fc84-a05c-4cdf-b9eb-30fdf21e3931" />
 
 NB:
-ù => supposed to be ♣
+ù => supposed to be ♣ (trees / arbres)
 
-O => supposed to be ☺
+O => supposed to be ☺ (enfants / children)
 
-X => supposed to be ☻
+X => supposed to be ☻ (ogre)
